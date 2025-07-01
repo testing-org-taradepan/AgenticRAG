@@ -103,6 +103,5 @@ def Internet_search(input:str):
     res = DuckDuckGo.run(input)
     return res
 
-
 # search_results = search_db("Agent_Post", "what are ai agents?")
 # print(search_results)
