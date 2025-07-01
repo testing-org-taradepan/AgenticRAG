@@ -29,18 +29,6 @@ AgenticRAG is a Python-based project that utilizes the power of AI to facilitate
 4. Perform internet searches using DuckDuckGo
 5. Customize and extend the capabilities of the project as needed
 
-## Contribution Guidelines 🤝
-* Fork the repository and create a new branch for your changes
-* Make sure to test your changes thoroughly before submitting a pull request
-* Follow the standard professional guidelines for commit messages and code formatting
-* Be respectful and considerate of other contributors and users
-
-## Additional Notes and Tips 📝
-* Make sure to replace `YOUR_API_KEY` with your actual OpenAI API key in the `.env` file
-* Use the `streamlit` command to run the application in debug mode
-* Refer to the [OpenAI API documentation](https://platform.openai.com/docs/api-reference) for more information on using the OpenAI API
-* Use the `chromadb` command to manage the vector search database
-
 👍 Happy coding! 🤖
 
 ---
