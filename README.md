@@ -6,7 +6,6 @@ AgenticRAG is a Python-based project that utilizes the power of AI to facilitate
 * Employs a vector search database for efficient information retrieval
 * Supports internet searches using DuckDuckGo
 * Includes tools for text processing and embedding functions
-* Allows for customization and extension of its capabilities
 
 ## Technologies and Dependencies Used 🛠️
 * Python as the primary programming language
