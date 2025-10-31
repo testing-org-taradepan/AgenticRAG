@@ -22,13 +22,6 @@ AgenticRAG is a Python-based project that utilizes the power of AI to facilitate
 4. Create a new file named `.env` and add your OpenAI API key using `OPENAI_API_KEY="YOUR_API_KEY"`
 5. Run the application using `python main.py`
 
-## Usage Guide 📖
-1. Run the application using `python main.py`
-2. Interact with the conversational AI using the web interface
-3. Use the vector search database to retrieve information on various topics
-4. Perform internet searches using DuckDuckGo
-5. Customize and extend the capabilities of the project as needed
-
 👍 Happy coding! 🤖
 
 ---
